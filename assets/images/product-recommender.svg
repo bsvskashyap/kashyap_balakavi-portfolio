@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="10" fill="#eefef7"/>
+  <rect x="18" y="30" width="30" height="18" rx="3" fill="#27ae60"/>
+  <rect x="54" y="22" width="48" height="12" rx="3" fill="#7fb2ff"/>
+  <text x="6" y="75" font-family="Montserrat, Arial" font-size="10" fill="#1b6f4a">Recommender</text>
+</svg>

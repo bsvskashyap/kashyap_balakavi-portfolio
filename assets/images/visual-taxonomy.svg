@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="10" fill="#e8f4ff"/>
+  <circle cx="30" cy="40" r="12" fill="#3382f4"/>
+  <circle cx="60" cy="25" r="8" fill="#7fb2ff"/>
+  <circle cx="90" cy="45" r="10" fill="#00e6b8"/>
+  <text x="12" y="72" font-family="Montserrat, Arial" font-size="10" fill="#1b227c">Visual Taxonomy</text>
+</svg>

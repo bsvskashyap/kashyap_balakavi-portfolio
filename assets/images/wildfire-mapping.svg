@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="10" fill="#fff4e6"/>
+  <path d="M20 60 C40 30, 80 30, 100 60" stroke="#ff7b5c" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="10" y="75" font-family="Montserrat, Arial" font-size="10" fill="#a34d2a">Wildfire Mapping</text>
+</svg>

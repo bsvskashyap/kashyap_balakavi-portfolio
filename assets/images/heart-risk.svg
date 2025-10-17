@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="10" fill="#fff7fb"/>
+  <path d="M30 40 C40 20, 80 20, 90 40 C90 60, 60 70, 60 70 C60 70, 30 60, 30 40 Z" fill="#ff8aa2"/>
+  <text x="8" y="75" font-family="Montserrat, Arial" font-size="10" fill="#7a2a47">Heart Risk</text>
+</svg>
