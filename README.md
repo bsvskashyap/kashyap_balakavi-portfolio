@@ -1,6 +1,6 @@
-# Kashyap Balakavi — Portfolio (static)
+# Kashyap Balakavi — Portfolio
 
-This repository contains a single-page static portfolio built with plain HTML, CSS, and vanilla JavaScript. It is designed to be lightweight, accessible, and easy to host anywhere (GitHub Pages, Netlify, S3, etc.). This project is open-source and available under the MIT License.
+This repository contains a single-page portfolio built with plain HTML, CSS, and vanilla JavaScript. It is designed to be lightweight, accessible, and easy to host anywhere (GitHub Pages, Netlify, S3, etc.). This project is open-source and available under the MIT License.
 
 ## Overview
 
